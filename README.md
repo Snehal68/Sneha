@@ -1,3 +1,3 @@
 # Sneha
-This is my first Repository
-Author Snehal
+This is my first  Git Repository
+Author: Snehal
